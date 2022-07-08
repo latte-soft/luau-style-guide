@@ -1,1 +1,4 @@
 site_name: Latte Luau Style-Guide
+
+theme:
+  name: material
