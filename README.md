@@ -1,7 +1,7 @@
-<p align=center><img width="400" src="assets/latte-banner.svg"></p>
+<p align=center><a href="https://latte.to" target="_blank"><img width="400" src="assets/latte-banner.svg"></a></p>
 <hr>
 <h2 align=center>Latte Luau Style-Guide</h2>
-<p align=center>Style-Guide Created & Designed for Luau projects @ Latte Softworks</p>
+<p align=center>Style-Guide Created & Designed for Luau projects @ <a href="https://latte.to" target="_blank">Latte Softworks</a></p>
 <hr>
 
 ## What is this?
