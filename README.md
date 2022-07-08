@@ -5,7 +5,7 @@
 <hr>
 
 ## What is this?
-This is the repoitory that holds the documentation for Latte's Luau Style Guide. You can visit it at <https://latte.to/luau-style-guide>.
+This is the repoitory that holds the documentation for Latte's Luau Style Guide. You can visit it at <https://luau.latte.to/>.
 
 <hr>
 
