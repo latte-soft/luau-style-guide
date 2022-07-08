@@ -1,4 +1,56 @@
 site_name: Latte Luau Style-Guide
+site_url: https://luau.latte.to/
+repo_name: latte-soft/luau-style-guide
+repo_url: https://github.com/latte-soft/luau-style-guide
+
+copyright: Copyright &copy; 2022 Latte Softworks
 
 theme:
   name: material
+
+  logo: assets/images/latte-logo.png
+  favicon: assets/images/latte-logo.png
+
+  icon:
+    repo: fontawesome/brands/github
+
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+  palette:
+    - scheme: slate
+      primary: blue grey
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to Light Mode
+
+    - scheme: default
+      primary: blue grey
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to Dark Mode
+
+  features:
+    - navigation.expand
+    - navigation.indexes
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://latte.to/invite
+
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/LatteSoftworks
+
+markdown_extensions:
+  - meta
+
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
