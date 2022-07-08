@@ -1,4 +1,4 @@
-Latte Luau Style Guide | Copyright (C) 2022 Latte Softworks <support@latte.to>
+Latte Luau Style-Guide | Copyright (C) 2022 Latte Softworks <support@latte.to>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the"Software"), to deal in the
