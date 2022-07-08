@@ -1,7 +1,11 @@
-<p align=center><a href="https://latte.to" target="_blank"><img width="400" src="assets/latte-banner.svg"></a></p>
+<p align=center><a href="https://latte.to" target="_blank"><img width="400" src="assets/latte-banner-dark-theme.svg#gh-dark-mode-only"></a></p>
+<p align=center><a href="https://latte.to" target="_blank"><img width="400" src="assets/latte-banner-light-theme.svg#gh-light-mode-only"></a></p>
+
 <hr>
+
 <h2 align=center>Latte Luau Style-Guide</h2>
 <p align=center>Style-Guide Created & Designed for Luau projects @ <a href="https://latte.to" target="_blank">Latte Softworks</a></p>
+
 <hr>
 
 ## What is this?
