@@ -10,6 +10,6 @@ This is the repoitory that holds the documentation for Latte's Luau Style-Guide.
 <hr>
 
 ## License
-`latte-soft/luau-style-guide` is protected by and licensed under the MIT License. See <LICENSE.txt> or <https://mit-license.org/> for more details and information.
+Latte Luau Style-Guide (`latte-soft/luau-style-guide`) is protected by and licensed under the MIT License. See <LICENSE.txt> or <https://mit-license.org/> for more details and information.
 
 Luau Style Guide | Copyright (C) 2022 Latte Softworks <support@latte.to>
