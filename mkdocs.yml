@@ -8,10 +8,11 @@ copyright: Copyright &copy; 2022 Latte Softworks
 theme:
   name: material
 
-  logo: assets/images/latte-logo.png
   favicon: assets/images/latte-logo.png
+  #logo: assets/images/latte-logo.svg
 
   icon:
+    logo: material/language-lua
     repo: fontawesome/brands/github
 
   font:
@@ -39,6 +40,8 @@ theme:
 
 nav:
   - Introduction: index.md
+  - Fundamental Principles: fundamental-principles.md
+  - Style-Guide: style-guide.md
 
 extra:
   social:
@@ -55,13 +58,18 @@ plugins:
 
 markdown_extensions:
   - meta
+  - admonition
 
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.details
 
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji 
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+  - pymdownx.tabbed:
+      alternate_style: true
