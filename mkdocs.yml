@@ -20,16 +20,18 @@ theme:
     code: JetBrains Mono
 
   palette:
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: blue grey
-      accent: blue
+      accent: teal
       toggle:
         icon: material/brightness-4
         name: Switch to Light Mode
 
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: blue grey
-      accent: blue
+      accent: teal
       toggle:
         icon: material/brightness-7
         name: Switch to Dark Mode
