@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://latte.to/#only-dark" target="_blank">
-    <img width="400" src="assets/latte-banner-dark-theme.svg#only-dark">
+<a href="https://latte.to/#gh-dark-mode-only" target="_blank">
+    <img width="400" src="assets/latte-banner-dark-theme.svg#gh-dark-mode-only">
 </a>
 
-<a href="https://latte.to/#only-light" target="_blank">
-    <img width="400" src="assets/latte-banner-light-theme.svg#only-light">
+<a href="https://latte.to/#gh-light-mode-only" target="_blank">
+    <img width="400" src="assets/latte-banner-light-theme.svg#gh-light-mode-only">
 </a>
 
 <hr>
