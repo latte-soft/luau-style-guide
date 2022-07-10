@@ -16,3 +16,16 @@ We very much welcome the Roblox development community (or any other group or ind
 !!! note
 
     This style-guide, and it's various principles, can and *may* be modified or manipulated at any point for any number of reasons. We will try our best to not break any major principles, however, if major changes ever need to be made, we will make sure to make large note of them prior.
+
+## Main Author(s)
+- Reggie
+    - [:material-email: **reggie@latte.to**](mailto://reggie@latte.to)
+    - [:material-discord: **reggie#1000**](https://latte.to/reggie)
+    - [:fontawesome-brands-github-square: **regginator**](https://github.com/regginator)
+    - [:fontawesome-brands-twitter-square: **@regginator**](https://twitter.com/regginator)
+
+## Licensing
+
+The Latte Luau Style-Guide (`latte-soft/luau-style-guide`) is protected by and licensed under the MIT License. See [LICENSE.txt](https://github.com/latte-soft/luau-style-guide/blob/master/LICENSE.txt) or <https://mit-license.org/> for more details and information.
+
+Luau Style Guide | Copyright (C) 2022 Latte Softworks support@latte.to
