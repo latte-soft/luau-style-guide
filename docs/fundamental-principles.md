@@ -17,9 +17,10 @@ There are some fundamental principles we'd like to keep with this style-guide, i
 
     - While writing everything the most "optimal" way in a scenerio *may* be more quick relatively, more likely than not either Luau automatically optimizes the operation at hand, or it's not harming preformance much to get more readability out of your code.
 
-    - Think about and consider what the code diffs of your changes may look like. It's easier to read and review a diff that isn't a mess of moving everything around, and makes your changes more likely to be implemented sooner. If reviewers cant review your changes, how can you expect them to be merged?
+    - Think about and consider what the code diffs of your changes may look like. It's easier to read and review a diff that isn't a mess, and makes your changes more likely to be implemented sooner. If reviewers cant review your changes, how can you expect them to be merged? You may need to avoid moving different things around that could mess up your diff.
 
 - Treat more powerful/experimental features with care.
+
     - While more powerful Lua/Luau features like *Metatables* might be really nice to use and work with, they need to be handled with caution, and care. While these features may not necessarily be un-stable or bad to use, they need to be used with complete caution and awareness. It's best practiced to actually *use* these features as little as possible, and when needed make a library that handles that extra dirty work for you. That way, if an issue or error comes along later down the line, the problem can usually be easily spotted and fixed.
 
-- Aim to be consistent with the natural flow and style of Luau; there's not much reason to go out of your way to avoid being idiomatic with Luau as intended. This guide simply helps direct the style of code to be somewhat standard.
+- Aim to be consistent with the natural flow and style of Lua/Luau; there's not much reason to go out of your way to avoid being idiomatic with Luau as intended. This guide simply helps direct the style of code to be somewhat standard.
