@@ -54,6 +54,9 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/LatteSoftworks
 
+    - icon: fontawesome/brands/github
+      link: https://github.com/latte-soft
+
 plugins:
   - search:
       lang:
