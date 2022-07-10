@@ -39,6 +39,7 @@ theme:
   features:
     - navigation.expand
     - navigation.indexes
+    - content.code.annotate
 
 nav:
   - Introduction: index.md

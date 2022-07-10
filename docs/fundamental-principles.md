@@ -3,7 +3,7 @@ title: Fundamental Principles
 description: Style-Guide Created & Designed for Luau projects @ Latte Softworks
 ---
 
-There are some fundamental principles we'd like to keep with this style-guide, including *why* certain rules and principles are how they are. Our main goal is to provide maintainers **and** contributers an easy way to add, modify, or fix parts of code in a way that's as simple as possible for everyone without causing conflict or issue.
+There are some fundamental principles we'd like to keep with this style-guide, including *why* certain rules and principles are how they are. One of the main goals is to provide maintainers **and** contributers an easy way to add, modify, or fix parts of code in a way that's as simple as possible for everyone without causing conflict or issue.
 
 - The point of a style-guide like this is to **avoid** arguments, not cause them.
 
