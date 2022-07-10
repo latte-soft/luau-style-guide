@@ -7,13 +7,13 @@ There are some fundamental principles we'd like to keep with this style-guide, i
 
 - The point of a style-guide like this is to **avoid** arguments, not cause them.
 
-    - There is no perfect way to write, style, or format code, but consistency and stability is **extremely** important. Even if this guide may not suit everyone's "taste" or preferred coding style, we choose to follow and accept it. It creates a sort-of arbitrary standard in a way, and allows us to all focus more on collaboration and functionality, instead of arguments over minor design disagreements or conflicts.
+    - There is no perfect way to write, style, or format code, but consistency and stability is **extremely** important. Even if this guide may not suit everyone's "taste" or preferred coding style, we choose to follow and accept it. It creates a sort-of standard to follow, and allows us to all focus more on collaboration and functionality, instead of arguments over minor design disagreements and conflicts.
 
     - If we weren't to follow a set style-guide, we would be constantly facing annoying and unnecessary arguments and code conflicts, and makes for a very unpleasent collaborative environment for both developers and contributors alike. A style-guide simply allows for there to be an easy and non-argumentative collaborative environment so the more importantant parts of a project can be focused on, like functionality or security.
 
 - Write and optimize your code for reading, **not** writing.
 
-    - You will only write your code once. Other people will need to read the code you wrote or any changes made to it. From reviewers/maintainers, other contributers, and possibly even you months later.. You need anyone to be capable of reading the code you create; not only for consistency, but general readbility as-well.
+    - You will only write your code once. Other people will need to read the code you wrote or any changes made to it. From reviewers/maintainers, other contributers, and possibly even you months later.. You need anyone to be capable of reading the code you create; not only for consistency, but general readability as-well.
 
     - While writing everything the most "optimal" way in a scenerio *may* be more quick relatively, more likely than not either Luau automatically optimizes the operation at hand, or it's not harming preformance much to get more readability out of your code.
 
