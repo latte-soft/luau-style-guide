@@ -11,7 +11,7 @@
 <hr>
 
 <h2>Latte Luau Style-Guide</h2>
-<p>Style-Guide Created & Designed for Luau projects @ <a href="https://latte.to/" target="_blank">Latte Softworks</a></p>
+<p>Style-Guide Created & Designed for Luau Projects @ <a href="https://latte.to/" target="_blank">Latte Softworks</a></p>
 
 </div>
 

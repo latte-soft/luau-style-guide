@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: Style-Guide Created & Designed for Luau projects @ Latte Softworks
+description: Style-Guide Created & Designed for Luau Projects @ Latte Softworks
 ---
 
 ## What is this?
