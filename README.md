@@ -39,4 +39,4 @@ We very much welcome the Roblox development community (or any other group or ind
 
 The Latte Luau Style-Guide (`latte-soft/luau-style-guide`) is protected by and licensed under the MIT License. See [LICENSE.txt](https://github.com/latte-soft/luau-style-guide/blob/master/LICENSE.txt) or <https://mit-license.org/> for more details and information.
 
-Latte Luau Style-Guide | Copyright (C) 2022 Latte Softworks support@latte.to
+Latte Luau Style-Guide | Copyright (C) 2022 Latte Softworks [support@latte.to](mailto://support@latte.to)
